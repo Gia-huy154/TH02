@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quản Lý Chi Tiêu</string>
+    <string name="login_title">ĐĂNG NHẬP</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="error_invalid_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="error_empty_input">Vui lòng nhập đầy đủ thông tin!</string>
+
+    <string name="main_title">Danh Sách Chi Tiêu</string>
+    <string name="total_amount_label">Tổng số tiền đã chi:</string>
+    <string name="btn_add_expense">Thêm khoản chi</string>
+
+    <string name="add_expense_title">Thêm Khoản Chi Mới</string>
+    <string name="expense_title">Tên khoản chi</string>
+    <string name="expense_amount">Số tiền (đ)</string>
+    <string name="expense_category">Danh mục</string>
+    <string name="expense_date">Ngày chi tiêu</string>
+    <string name="expense_note">Ghi chú</string>
+    <string name="btn_save">Lưu khoản chi</string>
+
+    <string name="detail_expense_title">Chi Tiết Khoản Chi</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa khoản chi</string>
+    <string name="no_note">Không có ghi chú</string>
+</resources>
